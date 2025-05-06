@@ -1,2 +1,1 @@
-# Prabhu
-EDS
+https://prabhuparve.github.io/Prabhu/
